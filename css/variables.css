@@ -1,0 +1,18 @@
+:root {
+  --main-dark: #1f1f1f;
+  --lighter-dark: #313131;
+  --accent: #f54932;
+  --btn-accent: #fbce51;
+  --beige: #e9ded4;
+  --blue: #3057a2;
+  --padding-side: 72px;
+  --padding-vert: 72px;
+  --content-max: 1222px;
+}
+
+@media screen and (max-width: 900px) {
+  :root {
+    --padding-side: 20px;
+    --padding-vert: 60px;
+  }
+}

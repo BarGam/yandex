@@ -1,0 +1,8 @@
+.DS_Store
+*.fig
+*.ref
+.cursor/
+
+# Сырой экспорт из Figma (дубликаты; для сайта достаточно img/)
+assets/images/
+assets/named/

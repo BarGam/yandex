@@ -1,0 +1,701 @@
+{
+  "breakpoints": [
+    {
+      "name": "1920",
+      "w": 1920,
+      "h": 700
+    },
+    {
+      "name": "1366 desktop",
+      "w": 1366,
+      "h": 3602
+    },
+    {
+      "name": "375",
+      "w": 375,
+      "h": 4497
+    }
+  ],
+  "sections": [
+    {
+      "name": "1920",
+      "w": 1920,
+      "h": 700
+    },
+    {
+      "name": "content",
+      "w": 542,
+      "h": 444
+    },
+    {
+      "name": "headline",
+      "w": 542,
+      "h": 264
+    },
+    {
+      "name": "btns",
+      "w": 542,
+      "h": 72
+    },
+    {
+      "name": "running line",
+      "w": 2335,
+      "h": 60
+    },
+    {
+      "name": "1366 desktop",
+      "w": 1366,
+      "h": 3602
+    },
+    {
+      "name": "Header ",
+      "w": 1366,
+      "h": 64
+    },
+    {
+      "name": "running line",
+      "w": 2335,
+      "h": 60
+    },
+    {
+      "name": "running line",
+      "w": 2335,
+      "h": 60
+    },
+    {
+      "name": "main",
+      "w": 1366,
+      "h": 700
+    },
+    {
+      "name": "Group 12",
+      "w": 1920,
+      "h": 881
+    },
+    {
+      "name": "content",
+      "w": 542,
+      "h": 444
+    },
+    {
+      "name": "headline",
+      "w": 542,
+      "h": 264
+    },
+    {
+      "name": "btns",
+      "w": 542,
+      "h": 72
+    },
+    {
+      "name": "Frame 48095654",
+      "w": 474,
+      "h": 527
+    },
+    {
+      "name": "Group 15",
+      "w": 1222,
+      "h": 250
+    },
+    {
+      "name": "Frame 48095655",
+      "w": 394,
+      "h": 250
+    },
+    {
+      "name": "Frame 48095627",
+      "w": 808,
+      "h": 136
+    },
+    {
+      "name": "375",
+      "w": 375,
+      "h": 4497
+    },
+    {
+      "name": "main screen",
+      "w": 375,
+      "h": 812
+    },
+    {
+      "name": "running line",
+      "w": 1727,
+      "h": 38
+    },
+    {
+      "name": "Frame 48095654",
+      "w": 335,
+      "h": 402
+    },
+    {
+      "name": "Frame 48095627",
+      "w": 335,
+      "h": 300
+    },
+    {
+      "name": "running line",
+      "w": 1727,
+      "h": 38
+    },
+    {
+      "name": "btns",
+      "w": 622,
+      "h": 356
+    },
+    {
+      "name": "btns",
+      "w": 542,
+      "h": 72
+    },
+    {
+      "name": "btns",
+      "w": 542,
+      "h": 72
+    },
+    {
+      "name": "btns",
+      "w": 622,
+      "h": 312
+    }
+  ],
+  "fonts": [
+    "YS Display Medium",
+    "Magneto Bold",
+    "Golos Text Bold",
+    "Merriweather Regular",
+    "Golos Text Medium",
+    "Golos Text Regular",
+    "Merriweather Bold",
+    "Golos Text SemiBold",
+    "Montserrat Medium"
+  ],
+  "colors": [
+    "#000000",
+    "#010000",
+    "#070707",
+    "#0c0c0c",
+    "#151515",
+    "#161515",
+    "#1f1f1f",
+    "#3057a2",
+    "#313131",
+    "#424241",
+    "#595653",
+    "#7cbe9a",
+    "#d6d6d6",
+    "#d9d9d9",
+    "#dcdcde",
+    "#e6dbcf",
+    "#e8dcd1",
+    "#e9ded4",
+    "#f54932",
+    "#f5f5f8",
+    "#fbce51",
+    "#fbfafc",
+    "#ffffff"
+  ],
+  "uniqueTexts": [
+    {
+      "name": "Дизайн для верстки Тестовый лендинг",
+      "text": "Дизайн для верстки\nТестовый лендинг",
+      "font": "YS Display",
+      "style": "Medium",
+      "size": 40,
+      "color": "#ffffff"
+    },
+    {
+      "name": "Клуб четырех коней",
+      "text": "Клуб\nчетырех коней",
+      "font": "Magneto",
+      "style": "Bold",
+      "size": 16.651264190673828,
+      "color": "#595653"
+    },
+    {
+      "name": "Превратите уездный город",
+      "text": "Превратите уездный город",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 60,
+      "color": "#313131"
+    },
+    {
+      "name": "в столицу",
+      "text": "в столицу",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 60,
+      "color": "#313131",
+      "align": "RIGHT"
+    },
+    {
+      "name": "земного шара",
+      "text": "земного шара",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 60,
+      "color": "#313131",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Label",
+      "text": "Поддержать шахматную мысль",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 16,
+      "color": "#ffffff",
+      "align": "CENTER"
+    },
+    {
+      "name": "Label",
+      "text": "Подробнее о турнире",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 16,
+      "color": "#1f1f1f",
+      "align": "CENTER"
+    },
+    {
+      "name": "Оплатите взнос на телеграммы для организации Международного васюкинского турнира по шахматам",
+      "text": "Оплатите взнос на телеграммы для организации Международного васюкинского турнира по шахматам",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 18,
+      "color": "#313131",
+      "align": "CENTER"
+    },
+    {
+      "name": "Дело помощи утопающим — дело рук самих утопающих!",
+      "text": "Дело помощи утопающим — дело рук самих утопающих!",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 22,
+      "color": "#ffffff",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Шахматы двигают вперед не только культуру, но и экономику!",
+      "text": "Шахматы двигают вперед не только культуру, но и экономику!",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 22,
+      "color": "#ffffff",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Лед тронулся, господа присяжные заседатели!",
+      "text": "Лед тронулся, господа присяжные заседатели!",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 22,
+      "color": "#ffffff",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Будущие источники обогащения васюкинцев",
+      "text": "Будущие источники обогащения васюкинцев",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#3057a2"
+    },
+    {
+      "name": "3",
+      "text": "3",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 16,
+      "color": "#313131"
+    },
+    {
+      "name": "/",
+      "text": "/",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 16,
+      "color": "#313131"
+    },
+    {
+      "name": "6",
+      "text": "6",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 16,
+      "color": "#313131"
+    },
+    {
+      "name": "Дело помощи утопающим — дело рук самих утопающих!",
+      "text": "Дело помощи утопающим — дело рук самих утопающих!",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 22,
+      "color": "#ffffff",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Шахматы двигают вперёд не только культуру, но и экономику!",
+      "text": "Шахматы двигают вперёд не только культуру, но и экономику!",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 22,
+      "color": "#ffffff",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Лёд тронулся, господа присяжные заседатели!",
+      "text": "Лёд тронулся, господа присяжные заседатели!",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 22,
+      "color": "#ffffff",
+      "align": "RIGHT"
+    },
+    {
+      "name": "Этапы преображения Васюков",
+      "text": "Этапы преображения Васюков",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 54,
+      "color": "#313131"
+    },
+    {
+      "name": "Участники турнира",
+      "text": "Участники турнира",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 54,
+      "color": "#313131"
+    },
+    {
+      "name": "и Сеанс одновременной игры в шахматы на 160 досках гроссмейстера О. Бендера",
+      "text": "и Сеанс одновременной игры в шахматы на 160 досках гроссмейстера О. Бендера",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 36,
+      "color": "#313131"
+    },
+    {
+      "name": "Место проведения:",
+      "text": "Место проведения:",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Дата и время мероприятия:",
+      "text": "Дата и время мероприятия:",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Стоимость входных билетов:",
+      "text": "Стоимость входных билетов:",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Плата за игру:",
+      "text": "Плата за игру:",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Взнос на телеграммы:",
+      "text": "Взнос на телеграммы:",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Клуб «Картонажник»",
+      "text": "Клуб «Картонажник»",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "22 июня 1927 г. в 18:00",
+      "text": "22 июня 1927 г. в 18:00",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "20 коп.",
+      "text": "20 коп.",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "50 коп.",
+      "text": "50 коп.",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "21 руб. 16 коп.",
+      "text": "21 руб. 16 коп.",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "100 руб.",
+      "text": "100 руб.",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "По всем вопросам обращаться в администрацию к К. Михельсону",
+      "text": "По всем вопросам обращаться в администрацию к К. Михельсону",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#3057a2"
+    },
+    {
+      "name": "Чтобы поддержать Международный васюкинский турнир посетите лекцию на тему: «Плодотворная дебютная идея»",
+      "text": "Чтобы поддержать Международный васюкинский турнир посетите лекцию на тему: «Плодотворная дебютная идея»",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 36,
+      "color": "#313131"
+    },
+    {
+      "name": "7",
+      "text": "7",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Создание аэропорта «Большие Васюки» с регулярным отправлением почтовых самолётов и дирижаблей во все концы света, включая Лос-Анжелос и Мельбурн",
+      "text": "Создание аэропорта «Большие Васюки» с регулярным отправлением почтовых самолётов и дирижаблей во все концы света, включая Лос-Анжелос и Мельбурн",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Размещение гаражей для гостевого автотранспорта",
+      "text": "Размещение гаражей для гостевого автотранспорта",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "5",
+      "text": "5",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Строительство дворца для турнира",
+      "text": "Строительство дворца для турнира",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "4",
+      "text": "4",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Строительство железнодорожной магистрали Москва-Васюки",
+      "text": "Строительство железнодорожной магистрали Москва-Васюки",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "1",
+      "text": "1",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Открытие фешенебельной гостиницы «Проходная пешка» и других небоскрёбов",
+      "text": "Открытие фешенебельной гостиницы «Проходная пешка» и других небоскрёбов",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "2",
+      "text": "2",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Поднятие сельского хозяйства в радиусе на тысячу километров: производство овощей, фруктов, икры, шоколадных конфет",
+      "text": "Поднятие сельского хозяйства в радиусе на тысячу километров: производство овощей, фруктов, икры, шоколадных конфет",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Постройка сверхмощной радиостанции для передачи всему миру сенсационных результатов",
+      "text": "Постройка сверхмощной радиостанции для передачи всему миру сенсационных результатов",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Хозе-Рауль Капабланка",
+      "text": "Хозе-Рауль Капабланка",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 24,
+      "color": "#313131"
+    },
+    {
+      "name": "Чемпион мира по шахматам",
+      "text": "Чемпион мира по шахматам",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#313131"
+    },
+    {
+      "name": "Подробнее",
+      "text": "Подробнее",
+      "font": "Golos Text",
+      "style": "Medium",
+      "size": 16,
+      "color": "#3057a2"
+    },
+    {
+      "name": "Эммануил Ласкер",
+      "text": "Эммануил Ласкер",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 24,
+      "color": "#313131"
+    },
+    {
+      "name": "Александр Алехин",
+      "text": "Александр Алехин",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 24,
+      "color": "#313131"
+    },
+    {
+      "name": "Все персонажи, события и цитаты являются вымышленными и не принадлежат создателям сайта. С подробностями можно познакомиться в главе XXXIV романа Ильи Ильфа и Евгения Петрова «Двенадцать стульев».",
+      "text": "Все персонажи, события и цитаты являются вымышленными и не принадлежат создателям сайта. С подробностями можно познакомиться в главе XXXIV романа Ильи Ильфа и Евгения Петрова «Двенадцать стульев».",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 16,
+      "color": "#313131"
+    },
+    {
+      "name": "Арон Нимцович",
+      "text": "Арон Нимцович",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 24,
+      "color": "#151515"
+    },
+    {
+      "name": "Рихард Рети",
+      "text": "Рихард Рети",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 24,
+      "color": "#151515"
+    },
+    {
+      "name": "Остап Бендер",
+      "text": "Остап Бендер",
+      "font": "Golos Text",
+      "style": "SemiBold",
+      "size": 24,
+      "color": "#151515"
+    },
+    {
+      "name": "Гроссмейстер",
+      "text": "Гроссмейстер",
+      "font": "Golos Text",
+      "style": "Regular",
+      "size": 20,
+      "color": "#151515"
+    },
+    {
+      "name": "Чтобы поддержать Международный васюкинский турнир",
+      "text": "Чтобы поддержать Международный васюкинский турнир",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 28,
+      "color": "#313131"
+    },
+    {
+      "name": "посетите лекцию на тему: «Плодотворная дебютная идея»",
+      "text": "посетите лекцию на тему: «Плодотворная дебютная идея»",
+      "font": "Merriweather",
+      "style": "Regular",
+      "size": 28,
+      "color": "#313131"
+    },
+    {
+      "name": "hover",
+      "text": "hover",
+      "font": "Montserrat",
+      "style": "Medium",
+      "size": 22,
+      "color": "#151515",
+      "align": "CENTER"
+    },
+    {
+      "name": "default",
+      "text": "default",
+      "font": "Montserrat",
+      "style": "Medium",
+      "size": 22,
+      "color": "#151515",
+      "align": "CENTER"
+    },
+    {
+      "name": "disabled",
+      "text": "disabled",
+      "font": "Montserrat",
+      "style": "Medium",
+      "size": 22,
+      "color": "#151515",
+      "align": "CENTER"
+    }
+  ]
+}
